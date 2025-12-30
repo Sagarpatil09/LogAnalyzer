@@ -1,0 +1,5 @@
+2025-12-29 17:44:22\tERROR\tUserAuth\tTransaction failed for user 'bob.jones'.
+2025-12-29 17:44:22\tINFO\tPayment\tUser 'john.doe' logged out.
+2025-12-29 17:44:22\tERROR\tPayment\tTransaction failed for user 'alice.smith'.
+2025-12-29 17:44:22\tWARNING\tGeoIP\tCould not resolve IP address '192.168.1.70'.
+2025-12-29 17:44:22\tINFO\tGeoIP\tUser 'jane.doe' logged in successfully.

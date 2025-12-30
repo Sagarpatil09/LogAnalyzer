@@ -1,0 +1,5 @@
+2025-12-29 17:44:22\tWARNING\tUserAuth\tCould not resolve IP address '192.168.1.238'.
+2025-12-29 17:44:22\tWARNING\tUserAuth\tCould not resolve IP address '192.168.1.59'.
+2025-12-29 17:44:22\tINFO\tGeoIP\tUser 'jane.doe' logged out.
+2025-12-29 17:44:22\tERROR\tGeoIP\tTransaction failed for user 'jane.doe'.
+2025-12-29 17:44:22\tWARNING\tGeoIP\tCould not resolve IP address '192.168.1.249'.

@@ -1,0 +1,5 @@
+2025-12-29 17:44:22\tWARNING\tGeoIP\tCould not resolve IP address '192.168.1.42'.
+2025-12-29 17:44:22\tWARNING\tGeoIP\tCould not resolve IP address '192.168.1.77'.
+2025-12-29 17:44:22\tWARNING\tPayment\tCould not resolve IP address '192.168.1.145'.
+2025-12-29 17:44:22\tERROR\tGeoIP\tTransaction failed for user 'jane.doe'.
+2025-12-29 17:44:22\tWARNING\tPayment\tCould not resolve IP address '192.168.1.64'.
