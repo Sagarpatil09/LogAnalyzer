@@ -57,9 +57,6 @@ def generate_logs():
             file_path = os.path.join(dir_path, f"log_{f}.log")
 
             with open(file_path, "w", encoding="utf-8") as file:
-                # Header with literal \t
-                file.write("Timestamp\\tLevel\\tComponent\\tMessage\n")
-
                 for _ in range(LINES_PER_FILE):
                     file.write(generate_log_line() + "\n")
 
@@ -68,3 +65,4 @@ def generate_logs():
 
 if __name__ == "__main__":
     generate_logs()
+
