@@ -56,10 +56,10 @@ Log files must be **tab-separated (\t)** and follow the format below:
 
 ## Setup & Run Instructions
 
-pipenv shell
-pipenv install
-alembic upgrade head
-python main.py
+- pipenv shell
+- pipenv install
+- alembic upgrade head
+- python main.py
 
 ---
 
